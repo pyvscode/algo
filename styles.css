@@ -6,8 +6,8 @@ body, h1, p {
 
 /* Style the header */
 header {
-    background-color: #007acc;
-    color: #fff;
+    background-color: #ffffff; /* Белый цвет фона */
+    border-bottom: 1px solid #000000; /* Черная тонкая линия снизу */
     padding: 10px 0;
     text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #000000; /* Черный цвет текста */
 }
 
 /* Style the main content */
